@@ -24,7 +24,7 @@ Repository | Description
 [**Nmap**](https://www.nmap.org)    | A free and open source (license) utility for network discovery and security auditing.
 [**Wireshark**](https://www.wireshark.org)    | The world’s foremost and widely-used network protocol analyzer.
 [**TCPDUMP**](https://github.com/the-tcpdump-group/tcpdump)    | A powerful command-line packet analyzer.
-     
+[**OpenVAS**](https://github.com/greenbone/openvas-scanner)     | OpenVAS is a full-featured scan engine that executes a continuously updated and extended feed of Vulnerability Tests (VTs).
      
      
 # Enumeration 📖
